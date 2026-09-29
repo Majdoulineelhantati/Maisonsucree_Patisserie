@@ -1,0 +1,16 @@
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Laravel
+backend/vendor/
+backend/node_modules/
+backend/.env
+backend/.env.*
+!backend/.env.example
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
